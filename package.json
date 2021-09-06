@@ -1,0 +1,20 @@
+{
+  "name": "app-directus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "directus start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "marapper <msnre@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^9.0.0-rc.92",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "@directus/extensions-sdk": "^9.0.0-rc.92"
+  }
+}
