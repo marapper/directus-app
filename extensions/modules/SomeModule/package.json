@@ -10,7 +10,7 @@
   "author": "marapper <msnre@yandex.ru>",
   "license": "ISC",
   "directus:extension": {
-    "type": "display",
+    "type": "module",
     "path": "index.js",
     "source": "src/index.js",
     "host": "^9.0.0-rc.87",
